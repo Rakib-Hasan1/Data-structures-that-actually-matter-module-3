@@ -13,10 +13,10 @@
 </br>
 <b> file 7 : Linked List implementation - append() and print()</b>
 </br>
-<b> file 8 : Linked List implementation - prepend()</b>
+<b> file 7 : Linked List implementation - prepend()</b>
 </br>
-<b> file 9 : Linked List implementation - insert()</b>
+<b> file 7 : Linked List implementation - insert()</b>
 </br>
-<b> file 10 : Linked List implementation - remove()</b>
+<b> file 7 : Linked List implementation - remove()</b>
 </br>
 <b> file 11 : Queue Implementation using Linked List</b>
